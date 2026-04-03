@@ -53,15 +53,11 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gokulmlk&show_icons=true&theme=radical&count_private=true)
-
 ![Streak](https://streak-stats.demolab.com?user=Gokulmlk&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulmlk&layout=compact&theme=radical)
 
 ---
 
-## 📈 Contribution Graph (Modern)
+## 📈 Contribution Graph 
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokulmlk&theme=react-dark)
 
