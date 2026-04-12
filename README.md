@@ -71,4 +71,5 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ## 👀 Profile Views
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Gokulmlk&icon=0&color=0)
+![Profile views](https://komarev.com/ghpvc/?username=Gokulmlk&color=blue)
+
