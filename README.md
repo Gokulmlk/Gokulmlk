@@ -63,9 +63,6 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ---
 
-## 🏆 Top Contributed Repositories
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Gokulmlk&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
