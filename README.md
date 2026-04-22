@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&width=700&lines=Hi+everyone%2C+I+am+Gokul+Malik+👋;MERN+Stack+Developer;Cloud+%26+AI+Explorer)](https://git.io/typing-svg)
 
-I am a passionate and self-driven MERN Stack Developer with hands-on experience in building scalable, user-focused web applications. I have developed real-world projects using React, Node.js, Express, and MongoDB, focusing on clean architecture, performance, and responsive design.
+I am a passionate and self-driven MERN Stack & Python Developer with hands-on experience in building scalable, user-focused web applications. I have developed real-world projects using React, Node.js, Express, and MongoDB, focusing on clean architecture, performance, and responsive design.
 
 I also have strong exposure to Cloud Computing, working with AWS services like EC2, S3, VPC, Amplify, and CloudWatch to deploy and manage applications. Alongside this, I actively explore AI/ML concepts and how intelligent systems can be integrated into modern web applications.
 
